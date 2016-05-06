@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5" : 0,
+    "3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4F341B45-8398-419F-936E-F794A9170116",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5" : "GuHouseKeeping",
+    "3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE" : "guhousekeeping%E5%89%AF%E6%9C%AC%205(2)%E5%89%AF%E6%9C%AC%202"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuHouseKeeping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuHouseKeeping.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wisdom1314\/guhousekeeping-5-2-2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/DavidofWang\/guhousekeeping.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F341B45-8398-419F-936E-F794A9170116</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GuHouseKeeping</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE</key>
+		<string>https://github.com/wisdom1314/guhousekeeping-5-2-2.git</string>
+		<key>F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5</key>
+		<string>https://bitbucket.org/DavidofWang/guhousekeeping.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GuHouseKeeping.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE</key>
+		<string>../..</string>
+		<key>F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5</key>
+		<string>../../../GuHouseKeeping</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wisdom1314/guhousekeeping-5-2-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7BD34F3BCBB385DAFE4FA2E176ABBE3CF4584D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GuHouseKeeping</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3766F8B4AB3FD63DA0D5C35C8BF1D6FC751A39CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>guhousekeeping%E5%89%AF%E6%9C%AC%205(2)%E5%89%AF%E6%9C%AC%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
